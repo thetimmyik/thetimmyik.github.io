@@ -18,7 +18,7 @@ td{
     
 }
 table{
-     background-image: url(_1034-807.jpg);
+     background-image: url(../imgs/_1034-807.jpg);
      
     background-size: 110%;
     
@@ -29,7 +29,7 @@ table{
     margin-top: px;
 }
 body{
-    background-image: url(bg.jpg);
+    background-image: url(../imgs/bg.jpg);
     background-repeat: no-repeat;
     
 }
